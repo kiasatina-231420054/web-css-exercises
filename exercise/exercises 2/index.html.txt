@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exercise 2</title>
+</head>
+<body>
+  <p style="font-family: 'Times New Roman', serif; font-size: 16pt;">
+    Hello everyone, my name is Kiasatina Syahirah
+  </p>
+</body>
+</html>
