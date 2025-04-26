@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exercise 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p>Hello everyone, my name is Kiasatina Syahirah. I know how to CSS</p>
+</body>
+</html>
