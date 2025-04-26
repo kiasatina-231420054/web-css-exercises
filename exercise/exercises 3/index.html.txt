@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Am I</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    h1 {
+      color: pink;
+      font-family: Arial, italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Who Am I</h1>
+  <p><strong>Full Name:</strong> <span style="color: blue;">Kiasatina Syahirah</span></p>
+  <p><strong>Age:</strong> 22</p>
+  <p><strong>Educational Background:</strong> Bachelor of New Media Communication</p>
+</body>
+</html>
